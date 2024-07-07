@@ -1,0 +1,5 @@
+openai==0.10.3
+transformers
+gtts
+torch
+streamlit
